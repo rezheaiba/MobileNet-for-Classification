@@ -1,0 +1,3 @@
+img-name information strategy
+1.jpg 室内图对于level2，有大面积白色会被识别为雪地
+2.jpg 强光图对于level1，识别fog；对于level2，识别为雪地

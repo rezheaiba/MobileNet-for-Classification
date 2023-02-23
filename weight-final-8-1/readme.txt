@@ -1,0 +1,1 @@
+继续weight-final2文件夹中权重，加上stripe类别训练100epoch
